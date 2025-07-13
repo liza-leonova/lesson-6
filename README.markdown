@@ -113,7 +113,7 @@ def beam_search(self, prompt, beam_width=5, max_length=200,
 Результаты обучения
 Эпоха	Train Loss	Train BLEU	Val BLEU	Время эпохи
 1	    6.49     	0.008     	0.57       	~20 мин
-2	    6.23        0.009       0.53        ~18 мин
+2	    6.23        0.009     0.53        ~18 мин
 
 
 Примеры генерации
